@@ -210,7 +210,7 @@ const AccountProfile = ({ user, btnTitle }: Props) => {
           )}
         />
 
-        <Button type="submit" className="bg-primary-500">
+        <Button type="submit" className="bg-blue-500">
           {btnTitle}
         </Button>
       </form>
